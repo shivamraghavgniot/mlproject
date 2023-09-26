@@ -14,4 +14,8 @@ matplotlib-inline==0.1.6
 pandas
 seaborn
 numpy
+matplotlib
+scikit-learn
+catboost
+xgboost
 -e .
